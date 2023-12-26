@@ -1,0 +1,47 @@
+_repo: The-collected-works-of-William-Hazlitt-Vol-12-of-12_72206
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hazlitt, William
+    birthdate: 1778
+    deathdate: 1830
+    gutenberg_agent_id: '800'
+    url: http://www.gutenberg.org/2009/agents/800
+    wikipedia: https://en.wikipedia.org/wiki/William_Hazlitt
+  editors:
+  - agent_name: Glover, Arnold
+    birthdate: 1865
+    deathdate: 1905
+    gutenberg_agent_id: '39381'
+    url: http://www.gutenberg.org/2009/agents/39381
+  - agent_name: Waller, A. R. (Alfred Rayney)
+    alias: Waller, Alfred Rayney
+    birthdate: 1867
+    deathdate: 1922
+    gutenberg_agent_id: '956'
+    url: http://www.gutenberg.org/2009/agents/956
+    wikipedia: https://en.wikipedia.org/wiki/Alfred_Rayney_Waller
+description: ''
+gutenberg_issued: '2023-11-22'
+identifiers:
+  gutenberg: '72206'
+language: en
+pgterms:marc904: https://archive.org/details/cu31924064977436
+pgterms:marc905: 20161110160517hazlitt
+pgterms:marc906: '1902'
+pgterms:marc907: GB
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bJ. M. Dent & Co., $c1902, copyright 1904.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English essays -- 19th century'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: Contributions to The New Monthly Magazine -- Contributions to The
+  Monthly Magazine -- Contributions to The Liberal -- Contributions to The London
+  Weekly Review -- Contributions to The Atlas -- Miscellaneous.
+title: The collected works of William Hazlitt, Vol. 12 (of 12)
+url: http://www.gutenberg.org/ebooks/72206
